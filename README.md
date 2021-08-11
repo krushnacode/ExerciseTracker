@@ -5,4 +5,3 @@ which will help you to track the schedule your time for the upcoming and past ev
 
 I used Javascript & MERN stack for the Development of the app.
 
-for runing the app on your PC first Delete the package-lock.json file.
